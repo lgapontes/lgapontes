@@ -12,3 +12,10 @@ img.pra-cima {
 	margin-right: 2px;
 	margin-top: -3px;
 }
+img.links {
+	width: 22px;
+}
+
+body {
+	height: 2000px;
+}
