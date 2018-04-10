@@ -3,7 +3,7 @@ main {
 	margin-bottom: 60px;
 	display: none;	
 }
-main#main-curriculo {
+main#main-principal {
 	display: block;
 }
 
@@ -79,7 +79,7 @@ div.meu-card {
 	margin: 10px;
 }
 
-img.borda-livro {
+img.borda-imagem-card {
 	box-shadow: 0 -2px 2px #aaaaaa;
 }
 
