@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
@@ -17,7 +18,61 @@
    inkscape:version="0.92.2 (unknown)"
    sodipodi:docname="inkscape.svg">
   <defs
-     id="defs2" />
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient912">
+      <stop
+         style="stop-color:#181f29;stop-opacity:1;"
+         offset="0"
+         id="stop908" />
+      <stop
+         style="stop-color:#344762;stop-opacity:1"
+         offset="1"
+         id="stop910" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient848-3">
+      <stop
+         style="stop-color:#d7d7d7;stop-opacity:1"
+         offset="0"
+         id="stop844" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop846" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient848-3"
+       id="linearGradient850"
+       x1="-515.32935"
+       y1="26.387337"
+       x2="-257.6647"
+       y2="280.16763"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(19.421961,-50.497102)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient848-3"
+       id="linearGradient902"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(19.421961,-50.497102)"
+       x1="-515.32935"
+       y1="26.387337"
+       x2="-257.6647"
+       y2="280.16763" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient912"
+       id="linearGradient914"
+       x1="-353.33218"
+       y1="450.92679"
+       x2="-287.00235"
+       y2="517.29242"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,13 +80,13 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.27443202"
-     inkscape:cx="-988.07965"
-     inkscape:cy="159.26064"
+     inkscape:zoom="1.3196153"
+     inkscape:cx="-1203.8558"
+     inkscape:cy="-721.82408"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     showguides="true"
+     showguides="false"
      inkscape:window-width="1366"
      inkscape:window-height="719"
      inkscape:window-x="0"
@@ -54,134 +109,76 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g911"
-       inkscape:export-filename="/opt/repositories/github/lgapontes/img/logo-1024x1024.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <g
-         id="g839">
-        <circle
-           style="opacity:1;fill:#ffffff;fill-opacity:0.97647059;stroke:none;stroke-width:2.46303034;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path815-6"
-           cx="-314.72427"
-           cy="165.01884"
-           r="135.46666" />
-        <circle
-           style="opacity:1;fill:#3f729b;fill-opacity:1;stroke:none;stroke-width:1.0256263;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path815-6-3"
-           cx="-370.4978"
-           cy="218.67641"
-           r="56.409435" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:319.29516602px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:0px;word-spacing:0px;fill:#181f29;fill-opacity:1;stroke:none;stroke-width:19.95594788"
-           x="-391.90585"
-           y="266.32404"
-           id="text819-3-7"
-           transform="scale(1.0537468,0.94899457)"><tspan
-             sodipodi:role="line"
-             id="tspan817-6-5"
-             x="-391.90585"
-             y="266.32404"
-             style="fill:#181f29;fill-opacity:1;stroke-width:19.95594788">L</tspan></text>
-      </g>
-    </g>
-    <g
-       transform="matrix(0.25000001,0,0,0.25000001,-429.77439,294.67797)"
-       id="g911-6"
-       inkscape:export-filename="/opt/repositories/github/lgapontes/img/logo-256x256.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <g
-         id="g839-7">
-        <circle
-           style="opacity:1;fill:#ffffff;fill-opacity:0.97647059;stroke:none;stroke-width:2.46303034;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path815-6-5"
-           cx="-314.72427"
-           cy="165.01884"
-           r="135.46666" />
-        <circle
-           style="opacity:1;fill:#3f729b;fill-opacity:1;stroke:none;stroke-width:1.0256263;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path815-6-3-3"
-           cx="-370.4978"
-           cy="218.67641"
-           r="56.409435" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:319.29516602px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:0px;word-spacing:0px;fill:#181f29;fill-opacity:1;stroke:none;stroke-width:19.95594788"
-           x="-391.90585"
-           y="266.32404"
-           id="text819-3-7-5"
-           transform="scale(1.0537468,0.94899457)"><tspan
-             sodipodi:role="line"
-             id="tspan817-6-5-6"
-             x="-391.90585"
-             y="266.32404"
-             style="fill:#181f29;fill-opacity:1;stroke-width:19.95594788">L</tspan></text>
-      </g>
-    </g>
-    <g
-       transform="matrix(0.25000001,0,0,0.25000001,-248.15306,298.16624)"
-       id="g911-6-2"
-       inkscape:export-filename="/opt/repositories/github/lgapontes/img/logo-256x256.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <g
-         id="g839-7-9">
-        <circle
-           style="opacity:1;fill:#ffffff;fill-opacity:0.97647059;stroke:none;stroke-width:2.46303034;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path815-6-5-1"
-           cx="-314.72427"
-           cy="165.01884"
-           r="135.46666" />
-        <circle
-           style="opacity:1;fill:#3f729b;fill-opacity:1;stroke:none;stroke-width:1.0256263;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path815-6-3-3-2"
-           cx="-370.4978"
-           cy="218.67641"
-           r="56.409435" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:319.29516602px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:0px;word-spacing:0px;fill:#181f29;fill-opacity:1;stroke:none;stroke-width:19.95594788"
-           x="-391.90585"
-           y="266.32404"
-           id="text819-3-7-5-7"
-           transform="scale(1.0537468,0.94899457)"><tspan
-             sodipodi:role="line"
-             id="tspan817-6-5-6-0"
-             x="-391.90585"
-             y="266.32404"
-             style="fill:#181f29;fill-opacity:1;stroke-width:19.95594788">L</tspan></text>
-      </g>
-    </g>
-    <g
-       id="g944"
+       id="g919"
        inkscape:export-filename="/opt/repositories/github/lgapontes/img/favicon.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <circle
          r="33.866665"
-         cy="343.2774"
-         cx="-109.90882"
+         cy="484.41034"
+         cx="-319.66602"
          id="path815-6-5-1-6"
-         style="opacity:1;fill:#181f29;fill-opacity:1;stroke:none;stroke-width:0.61575758;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <circle
-         r="14.10236"
-         cy="356.6918"
-         cx="-123.85221"
-         id="path815-6-3-3-2-0"
-         style="opacity:1;fill:#3f729b;fill-opacity:1;stroke:none;stroke-width:0.25640658;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:url(#linearGradient914);fill-opacity:1;stroke:none;stroke-width:0.61575758;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <text
          transform="scale(1.0537468,0.94899457)"
          id="text819-3-7-5-7-6"
-         y="384.83646"
-         x="-127.61143"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:79.8237915px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:0px;word-spacing:0px;fill:#fffffd;fill-opacity:1;stroke:none;stroke-width:4.98898697;"
+         y="533.55481"
+         x="-326.66986"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:79.8237915px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:0px;word-spacing:0px;fill:#fffffd;fill-opacity:1;stroke:none;stroke-width:4.98898697"
          xml:space="preserve"><tspan
-           style="fill:#fffffd;fill-opacity:1;stroke-width:4.98898697;"
-           y="384.83646"
-           x="-127.61143"
+           style="fill:#fffffd;fill-opacity:1;stroke-width:4.98898697"
+           y="533.55481"
+           x="-326.66986"
            id="tspan817-6-5-6-0-2"
+           sodipodi:role="line">L</tspan></text>
+    </g>
+    <g
+       id="g868"
+       inkscape:export-filename="/opt/repositories/github/lgapontes/img/logo-1024x1024.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <circle
+         r="135.46666"
+         cy="104.16336"
+         cx="-367.81097"
+         id="path815-6"
+         style="opacity:1;fill:url(#linearGradient850);fill-opacity:1;stroke:none;stroke-width:2.46303034;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         transform="scale(1.0537468,0.94899457)"
+         id="text819-3-7"
+         y="202.19775"
+         x="-442.28485"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:319.29516602px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:0px;word-spacing:0px;fill:#181f29;fill-opacity:1;stroke:none;stroke-width:19.95594788"
+         xml:space="preserve"><tspan
+           style="fill:#181f29;fill-opacity:1;stroke-width:19.95594788"
+           y="202.19775"
+           x="-442.28485"
+           id="tspan817-6-5"
+           sodipodi:role="line">L</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.25000001,0,0,0.25000001,-398.08648,461.90017)"
+       id="g868-5"
+       inkscape:export-filename="/opt/repositories/github/lgapontes/img/logo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <circle
+         r="135.46666"
+         cy="104.16336"
+         cx="-367.81097"
+         id="path815-6-3"
+         style="opacity:1;fill:url(#linearGradient902);fill-opacity:1;stroke:none;stroke-width:2.46303034;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         transform="scale(1.0537468,0.94899457)"
+         id="text819-3-7-5"
+         y="202.19775"
+         x="-442.28485"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:319.29516602px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:0px;word-spacing:0px;fill:#181f29;fill-opacity:1;stroke:none;stroke-width:19.95594788"
+         xml:space="preserve"><tspan
+           style="fill:#181f29;fill-opacity:1;stroke-width:19.95594788"
+           y="202.19775"
+           x="-442.28485"
+           id="tspan817-6-5-6"
            sodipodi:role="line">L</tspan></text>
     </g>
   </g>
