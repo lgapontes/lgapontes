@@ -3,7 +3,7 @@ main {
 	margin-bottom: 60px;
 	display: none;	
 }
-main#main-principal {
+main#main-curriculo {
 	display: block;
 }
 
@@ -68,9 +68,7 @@ p.texto {
 	font-size: 0.8em;
 }
 
-div.meu-container-card {	
-	width: 80%;
-	max-width: 700px;
+div.meu-container-card {
 	margin: 0 auto;
 	padding: 0;	
 }
@@ -78,12 +76,20 @@ div.meu-container-card {
 div.meu-card {	
 	box-sizing: border-box;
 	width: 250px;
-	margin: 0 auto;
-	margin-bottom: 10px;
+	margin: 10px;
 }
 
 img.borda-livro {
 	box-shadow: 0 -2px 2px #aaaaaa;
+}
+
+.exibir-pdf {
+	box-shadow: 0 0 4px black;	
+	height: 400px;
+}
+.exibir-pdf p {
+	margin: 10px;
+	padding: 5px;	
 }
 
 @media screen and (min-width: 400px) {
@@ -101,13 +107,14 @@ img.borda-livro {
 	}
 	p.texto {
 		font-size: 1.2em;
-	}
-	div.meu-container-card {
-		width: 506px;
-		max-width: 506px;
-	}
+	}	
 	div.meu-card {	
 		width: 250px;
 		display: inline-block;
+	}
+	.exibir-pdf {		
+		width: 80%;
+		margin: 0 auto;
+		height: 800px;
 	}
 }
