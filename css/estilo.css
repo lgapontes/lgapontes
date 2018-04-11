@@ -28,6 +28,10 @@ img.pra-cima {
 img.links {
 	width: 22px;
 }
+div.video-jogos {
+	box-shadow: 0 0 5px black;
+	margin-bottom: .8em;
+}
 
 div.parallax {	
 	margin-bottom: 10px;
