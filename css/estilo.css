@@ -3,7 +3,7 @@ main {
 	margin-bottom: 60px;
 	display: none;	
 }
-main#main-principal {
+main#main-sistemas {
 	display: block;
 }
 
@@ -64,6 +64,7 @@ img.texto {
 	margin-right: 5px;
 	border-radius: 24px;
 }
+
 p.texto {
 	font-size: 0.8em;
 }
@@ -90,6 +91,42 @@ img.borda-imagem-card {
 .exibir-pdf p {
 	margin: 10px;
 	padding: 5px;	
+}
+
+img.tecnologias {
+	width: 48px;
+	margin-right: 10px;
+}
+
+img.estilo-carousel {
+	width: 100%;
+	display: block;
+	margin: 0 auto;	
+}
+img.estilo-carousel-mobile {
+	max-width: 320px;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+	height: 42px;
+  	width: 42px;
+  	background-size: 100%, 100%;
+  	background-image: none;
+  	background-color: white;
+  	border-radius: 35px;
+}
+
+.carousel-control-next-icon:after {
+  	content: '>';
+  	font-size: 28px;
+  	color: black;  	
+}
+
+.carousel-control-prev-icon:after {
+  	content: '<';
+  	font-size: 28px;
+  	color: black;
 }
 
 @media screen and (min-width: 400px) {
