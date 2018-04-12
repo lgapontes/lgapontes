@@ -18,6 +18,11 @@ $('#nav-publicacoes').on('click',function(event) {
 		$('#main-publicacoes').css('display','block');
 	});		
 });
+$('#nav-linux').on('click',function(event) {	
+	esconderTodos(function() {
+		$('#main-linux').css('display','block');
+	});
+});
 $('#nav-jogos').on('click',function(event) {	
 	esconderTodos(function() {
 		$('#main-jogos').css('display','block');

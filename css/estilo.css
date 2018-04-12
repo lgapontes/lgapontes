@@ -3,7 +3,7 @@ main {
 	margin-bottom: 60px;
 	display: none;	
 }
-main#main-jogos {
+main#main-principal {
 	display: block;
 }
 
@@ -73,6 +73,10 @@ p.texto {
 	font-size: 0.8em;
 }
 
+p.texto-jogo {
+	margin-top: 2em;
+}
+
 div.meu-container-card {
 	margin: 0 auto;
 	padding: 0;	
@@ -112,6 +116,11 @@ img.estilo-carousel-mobile {
 }
 img.estilo-carousel-pequena {
 	max-width: 500px;
+}
+
+img.distribuicao {
+	width: 48px;
+	margin-right: 10px;
 }
 
 .carousel-control-prev-icon,
