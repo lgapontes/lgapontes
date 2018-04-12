@@ -68,7 +68,8 @@ function esconderTodos(click,callback) {
 		$(this).css('display','none');	
 	});	
 	callback();
+	window.scrollTo(0, 0);
 	if (click) {
 		$('.navbar-toggler-icon').click();
-	}	
+	}
 }
